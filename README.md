@@ -9,7 +9,7 @@
     <!-- <img align="center" width='100%' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /> -->
 </div>
 
-## 📊 Estatísticas GitHub
+## 📊 Estatísticas GitHub -
 
 <div align="center" width=100%>
  <img src="https://streak-stats.demolab.com?user=leoo1992&locale=pt-br&mode=weekly&theme=chartreuse_dark&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D" height="150" alt="streak graph"  />
