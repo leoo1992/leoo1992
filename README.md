@@ -1,4 +1,4 @@
-### Olá ! Aqui é o Léo,   =)    Sou um desevolvedor em aprendizado e um grande apaixonado por Tecnologia! 👋
+### Olá ! Aqui é o Léo....   =)  ....Sou um desevolvedor em aprendizado e um grande apaixonado por Tecnologia! 👋
 ### Prazer em ter você aqui - Seja Bem Vindo !
           
 ### Um pouquinho sobre mim:     
