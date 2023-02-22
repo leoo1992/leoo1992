@@ -2,7 +2,8 @@
 ### Prazer em ter você aqui - Seja Bem Vindo !
 </div><br
           
-## Um pouquinho sobre mim:
+### Um pouquinho sobre mim:
+          
 <div>
   <p>
    Me chamo Leonardo Santos Custódio, nasci em abril de 1992 e sou natural de Imbituba, Santa Catarina -BR. Sou formado em Técnico de Segurança do Trabalho (CEDUP - 2012). No decorrer da minha carreira de TST, cursei Engª. Civil por 4 semestres de 8 no total. Não conclui Engª Civil pois essa área não me despertou paixão, apesar pela grande habilidade em matemática e raciocínio logico. Só então depois de pensar muito no que eu sempre estive envolvido e no que eu realmente gostava, resolvi seguir destino no setor da tecnologia. Hoje eu curso Técnico em Análise e Desenvolvimento de Sistemas no SENAI de Criciúma com formação para 12/2023. Almejo em sequência iniciar uma faculdade de Engenharia de Software e conquistar minha migração de carreira.
