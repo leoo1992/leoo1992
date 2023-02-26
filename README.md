@@ -1,3 +1,7 @@
+# Obrigado por visitar meu Git! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+<a target="blank" href="https://profile-counter.glitch.me/leoo1992/count.svg"><p align="center">❤ Número de Visitantes ❤<br><br> <img src="https://profile-counter.glitch.me/antony-93/count.svg" /></a>
+
+<img align="right" src="https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904" width="500"/>
 ### Olá ! Aqui é o Léo....   =)  ____Sou um desevolvedor em aprendizado e um grande apaixonado por Tecnologia! 👋
 ### Prazer em ter você aqui - Seja Bem Vindo !
           
@@ -18,6 +22,7 @@
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">          
 
 </div><br>
 
