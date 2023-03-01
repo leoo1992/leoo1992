@@ -1,6 +1,6 @@
 # Obrigado por visitar meu Git! 
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70px">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 <a target="blank" href="https://profile-counter.glitch.me/leoo1992/count.svg"><p align="center">❤ Número de Visitantes ❤<br><br> <img src="https://profile-counter.glitch.me/leoo1992/count.svg" /></a>
 
 ### Olá ! Aqui é o Léo....
