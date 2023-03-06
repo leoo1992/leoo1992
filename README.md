@@ -19,56 +19,23 @@
   
 <div style="display: inline_block" align="center">
   
-<!--   <img align="center" alt="HTML" height="100" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> -->
-<!--   <img align="center" alt="CSS" height="100" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> -->
-<!--   <img align="center" alt="Java"height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> -->
-<!--   <img align="center" alt="MySQL" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> -->
-<!--   <img align="center" alt="JavaScript" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> -->
-<!--   <img align="center" alt="Spring"height="60" width="120" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> -->
-             <div class="card" alt="Java" title="Java" rel="noopener">               
-                    <img src="./img/java.png" alt="Java" title="Java" rel="noopener">
-                </div> 
-                <div class="card"alt="HTML5" title="HTML5" rel="noopener">
-                    <img src="./img/html.png" alt="HTML5" title="HTML5" rel="noopener">      
-                </div>
-                 <div class="card2" alt="CSS3" title="CSS3" rel="noopener">
-                    <img src="./img/css3.png" alt="CSS3" title="CSS3" rel="noopener">
-                </div>
-                <div class="card3"  alt="JavaScript" title="JavaScript" rel="noopener">
-                    <img src="./img/js.png" alt="JavaScript" title="JavaScript" rel="noopener">
-                </div> 
-                <div class="card" alt="React" title="React" rel="noopener">
-                    <img src="./img/react.png" alt="React" title="React" rel="noopener">
-                </div> 
-                <div class="card" alt="Laravel" title="Laravel" rel="noopener">
-                    <img src="./img/laravel.png" alt="Laravel" title="Laravel" rel="noopener">
-                </div> 
-                <div class="card" alt="MySQL" title="MySQL" rel="noopener">
-                    <img src="./img/mysql.png" alt="MySQL" title="MySQL" rel="noopener">
-                </div> 
-                <div class="card" alt="MongoDB" title="MongoDB" rel="noopener">
-                    <img src="./img/MongoDB.png" alt="MongoDB" title="MongoDB" rel="noopener">
-                </div> 
-          </div><br>
+  <img align="center" alt="HTML" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Java"height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="MySQL" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="JavaScript" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Spring"height="60" width="120" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+          
+
   </div><br>
 ## 🌐 Minhas Redes Sociais
   
 <div> 
-        <a class="linkedin" href="https://www.linkedin.com/in/leocustodio1992/"target="_blank" title="Linkedin" rel="noopener">
-            <i class="fa-brands fa-linkedin"></i>
-        </a> 
-        <a class="github" href="https://github.com/leoo1992"target="_blank" title="GitHub" rel="noopener">
-            <i class="fa-brands fa-github"></i>
-        </a>  
-        <a class="instagram" href="https://www.instagram.com/leocustodio1/"target="_blank" title="Instagram" rel="noopener">
-            <i class="fa-brands fa-instagram"></i>
-        </a> 
-        <a class="facebook" href="https://m.facebook.com/Leonardo.lSantosl"target="_blank" title="Facebook" rel="noopener">
-            <i class="fa-brands fa-facebook"></i>
-        </a>
+        <a href="https://www.instagram.com/leocustodio1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-                      badge&logo=instagram&logoColor=white" target="_blank"></a>
+        <a href="https://www.linkedin.com/in/leocustodio1992/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-             badge&logo=linkedin&logoColor=white" target="_blank"></a>
+        <a href="https://m.facebook.com/Leonardo.lSantosl" target="_blank"><img src="https://img.shields.io/badge/-Facebook-blue" target="_blank"></a>
+        <a href="https://leoo1992.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Portif%C3%B3lio-white" target="_blank"></a>
           
-<!--         <a href="https://www.instagram.com/leocustodio1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-                  badge&logo=instagram&logoColor=white" target="_blank"></a>
-        <a href="https://www.linkedin.com/in/leocustodio1992/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-             badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
 </div>
 
 ## ⚙️ Estatísticas GitHub
