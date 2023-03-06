@@ -17,7 +17,7 @@
 
 ## 🚀 Tecnologias que estou me Desenvolvendo:  
   
-<div style="display: inline_block" align="center">
+  <div style="display: inline_block" align="center">
   
   <img align="center" alt="HTML" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
