@@ -50,7 +50,7 @@
                     <img src="./img/MongoDB.png" alt="MongoDB" title="MongoDB" rel="noopener">
                 </div> 
           </div><br>
-
+  </div><br>
 ## 🌐 Minhas Redes Sociais
   
 <div> 
