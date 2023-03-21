@@ -11,7 +11,7 @@
           
 <div>
   <p>
-   Me chamo Leonardo Santos Custódio, nasci em abril de 1992 e sou natural de Imbituba, Santa Catarina -BR. Sou formado em Técnico de Segurança do Trabalho (CEDUP - 2012). No decorrer da minha carreira de TST, cursei Engª. Civil por 4 semestres de 8 no total. Não conclui Engª Civil pois essa área não me despertou paixão, apesar pela grande habilidade em matemática e raciocínio logico. Só então depois de pensar muito no que eu sempre estive envolvido e no que eu realmente gostava, resolvi seguir destino no setor da tecnologia. Hoje eu curso Técnico em Análise e Desenvolvimento de Sistemas no SENAI de Criciúma com formação para 12/2023. Almejo em sequência iniciar uma faculdade de Engenharia de Software e conquistar minha migração de carreira.
+   Me chamo Leonardo Santos Custódio, nasci em abril de 1992 e sou natural de Imbituba, Santa Catarina - BR. Sou formado e atuo como Técnico de Segurança do Trabalho a mais de 11 anos. Em minha jornada venho ganhando habilidades como: manuseio de sistemas, confecção e análise de gráficos, planilhas, manuais técnicos e outros materiais de apoio. Sou responsável por realizar treinamentos de integração de novos colaboradores, laudos técnicos, inspeções de e adequação de irregularidades. Atualmente estou finalizando o curso de técnico em Desenvolvimento de Sistemas no SENAI de Criciúma, com formação para 07/2023. Almejo em sequência iniciar uma faculdade de Engenharia de Software e realizar uma migração de carreira. Sei que tenho muito a agregar para area de tecnolgia com a experiencia que eu tenho. Sou apaixonado por sistemas e oque eles podem nos proporcionar, e essa paixão me motiva cada dia a estudar cada vez mais.
   </p>
 </div>
 
