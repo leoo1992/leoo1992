@@ -54,8 +54,8 @@
 <br><br>
 
 <div align="center">
-  
- ![](./profile-3d-contrib/profile-night-rainbow.svg)
+ ![Snake animation](https://github.com/leoo1992/leoo1992/blob/output/github-contribution-grid-snake.svg)
+ //![](./profile-3d-contrib/profile-night-rainbow.svg)
 
   <a href="https://github.com/leoo1992">
   <img height="250em" src="https://github-readme-stats.vercel.app/api?username=leoo1992&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
