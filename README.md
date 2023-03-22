@@ -10,7 +10,8 @@
 ### Olá ! Aqui é o Léo....
 ### Sou um desevolvedor em aprendizado e um grande apaixonado por Tecnologia! 👋
 ### Prazer em ter você aqui - Seja Bem Vindo !
-        
+
+
 ### ⚡️ Um pouquinho sobre mim:     
        
 <div>
@@ -20,7 +21,9 @@
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 
+
 ## 🚀 Tecnologias que estou me Desenvolvendo:  
+
 
   <div style="display: inline_block" align="center">
   
@@ -33,7 +36,9 @@
           
   </div>
 
+
 ## 🌐 Minhas Redes Sociais
+ 
  
 <div align="center">
         <a href="https://www.instagram.com/leocustodio1/" target="_blank" height="35" width="120"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-                      badge&logo=instagram&logoColor=white" target="_blank" height="35" width="120"></a>
@@ -42,7 +47,9 @@
         <a href="https://leoo1992.github.io/" target="_blank" height="35" width="120"><img src="https://img.shields.io/badge/-Portif%C3%B3lio-white" target="_blank" height="35" width="120"></a>
 </div>
 
+
 ## ⚙️ Estatísticas GitHub</b></summary>
+
 
 <div align="center">
   
