@@ -11,9 +11,9 @@
 ### Sou um desevolvedor em aprendizado e um grande apaixonado por Tecnologia! 👋
 ### Prazer em ter você aqui - Seja Bem Vindo !
 
-
+<br><br>
 ### ⚡️ Um pouquinho sobre mim:     
-       
+<br><br>       
 <div>
   <p>
           Me chamo Leonardo Santos Custódio, nasci em abril de 1992, sou natural de Imbituba, Santa Catarina. Sou formado e atuo como Técnico de Segurança do Trabalho há 11 anos. Em minha jornada venho ganhando habilidades como: manuseio de sistemas, confecção e análise de gráficos, planilhas, manuais técnicos e outros materiais de apoio. Sou responsável por realizar treinamentos de integração de novos colaboradores, laudos técnicos, inspeções e adequações de irregularidades. Atualmente estou finalizando o curso de técnico em Desenvolvimento de Sistemas no SENAI de Criciúma, com formação para 07/2023. Almejo em sequência iniciar uma faculdade de Engenharia de Software e realizar uma migração de carreira, sei que tenho muito a agregar para área de tecnologia com a experiencia que possuo. Sou fascinado por sistemas e por tudo de amplo e inovador que podem transformar a nossa realidade. Meu fascínio e curiosidade podem me levar a novos lugares e alcançar grandes projetos.
@@ -21,9 +21,9 @@
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 
-
+<br><br>
 ## 🚀 Tecnologias que estou me Desenvolvendo:  
-
+<br><br>
 
   <div style="display: inline_block" align="center">
   
@@ -36,9 +36,9 @@
           
   </div>
 
-
+<br><br>
 ## 🌐 Minhas Redes Sociais
- 
+ <br><br>
  
 <div align="center">
         <a href="https://www.instagram.com/leocustodio1/" target="_blank" height="35" width="120"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-                      badge&logo=instagram&logoColor=white" target="_blank" height="35" width="120"></a>
@@ -47,9 +47,9 @@
         <a href="https://leoo1992.github.io/" target="_blank" height="35" width="120"><img src="https://img.shields.io/badge/-Portif%C3%B3lio-white" target="_blank" height="35" width="120"></a>
 </div>
 
-
+<br><br>
 ## ⚙️ Estatísticas GitHub</b></summary>
-
+<br><br>
 
 <div align="center">
   
