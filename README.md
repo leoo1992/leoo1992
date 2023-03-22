@@ -42,16 +42,14 @@
         <a href="https://leoo1992.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Portif%C3%B3lio-white" target="_blank"></a>
 </div>
 
-## ⚙️ Estatísticas GitHub
-
+<details close="true">
+<summary><b>:gear: &nbsp;## ⚙️ Estatísticas GitHub</b></summary>
 <div align="center">
-  <summary><b>:gear: &nbsp;Git statistics</b></summary>
+  
  ![](./profile-3d-contrib/profile-night-rainbow.svg)
- 
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=leoo1992&show_icons=true&theme=highcontrast" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoo1992&hide=html&layout=compact&theme=highcontrast" />
 
   <a href="https://github.com/leoo1992">
   <img height="250em" src="https://github-readme-stats.vercel.app/api?username=leoo1992&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoo1992&layout=compact&langs_count=7&theme=dark"/>
 </div>
+</details>
