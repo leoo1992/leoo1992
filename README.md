@@ -36,10 +36,10 @@
 ## 🌐 Minhas Redes Sociais
   
 <div align="center">
-        <a href="https://www.instagram.com/leocustodio1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-                      badge&logo=instagram&logoColor=white" target="_blank"></a>
-        <a href="https://www.linkedin.com/in/leocustodio1992/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-             badge&logo=linkedin&logoColor=white" target="_blank"></a>
+        <a href="https://www.instagram.com/leocustodio1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-                      badge&logo=instagram&logoColor=white" target="_blank" height="60" width="120"></a>
+        <a href="https://www.linkedin.com/in/leocustodio1992/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-             badge&logo=linkedin&logoColor=white" target="_blank" height="60" width="120"></a>
         <a href="https://m.facebook.com/Leonardo.lSantosl" target="_blank"><img src="https://img.shields.io/badge/-Facebook-blue" target="_blank"></a>
-        <a href="https://leoo1992.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Portif%C3%B3lio-white" target="_blank"></a>
+        <a href="https://leoo1992.github.io/" target="_blank" height="60" width="120"><img src="https://img.shields.io/badge/-Portif%C3%B3lio-white" target="_blank"></a>
 </div>
 
 ## ⚙️ Estatísticas GitHub</b></summary>
