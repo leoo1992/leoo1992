@@ -4,9 +4,9 @@
  
 
 </div>
-<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=OBRIGADO+POR+ME+VISITAR)](https://github.com/leoo1992)
-</div>
+
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 <a target="blank" href="https://profile-counter.glitch.me/leoo1992/count.svg"><p align="center">❤ Número de Visitantes ❤<br><br><img src="https://profile-counter.glitch.me/leoo1992/count.svg" /></a>
