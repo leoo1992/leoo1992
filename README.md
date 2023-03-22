@@ -1,4 +1,8 @@
+<div align="center" >
+ 
+ ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
 # Obrigado por visitar meu Git! 
+</div>
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 <a target="blank" href="https://profile-counter.glitch.me/leoo1992/count.svg"><p align="center">❤ Número de Visitantes ❤<br><br> <img src="https://profile-counter.glitch.me/leoo1992/count.svg" /></a>
@@ -14,6 +18,7 @@
           Me chamo Leonardo Santos Custódio, nasci em abril de 1992, sou natural de Imbituba, Santa Catarina. Sou formado e atuo como Técnico de Segurança do Trabalho há 11 anos. Em minha jornada venho ganhando habilidades como: manuseio de sistemas, confecção e análise de gráficos, planilhas, manuais técnicos e outros materiais de apoio. Sou responsável por realizar treinamentos de integração de novos colaboradores, laudos técnicos, inspeções e adequações de irregularidades. Atualmente estou finalizando o curso de técnico em Desenvolvimento de Sistemas no SENAI de Criciúma, com formação para 07/2023. Almejo em sequência iniciar uma faculdade de Engenharia de Software e realizar uma migração de carreira, sei que tenho muito a agregar para área de tecnologia com a experiencia que possuo. Sou fascinado por sistemas e por tudo de amplo e inovador que podem transformar a nossa realidade. Meu fascínio e curiosidade podem me levar a novos lugares e alcançar grandes projetos.
   </p>
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 
 ## 🚀 Tecnologias que estou me Desenvolvendo:  
   
