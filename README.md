@@ -10,18 +10,18 @@
 ### Olá ! Aqui é o Léo....
 ### Sou um desevolvedor em aprendizado e um grande apaixonado por Tecnologia! 👋
 ### Prazer em ter você aqui - Seja Bem Vindo !
-          
+</br>          
 ### ⚡️ Um pouquinho sobre mim:     
-          
+</br>          
 <div>
   <p>
           Me chamo Leonardo Santos Custódio, nasci em abril de 1992, sou natural de Imbituba, Santa Catarina. Sou formado e atuo como Técnico de Segurança do Trabalho há 11 anos. Em minha jornada venho ganhando habilidades como: manuseio de sistemas, confecção e análise de gráficos, planilhas, manuais técnicos e outros materiais de apoio. Sou responsável por realizar treinamentos de integração de novos colaboradores, laudos técnicos, inspeções e adequações de irregularidades. Atualmente estou finalizando o curso de técnico em Desenvolvimento de Sistemas no SENAI de Criciúma, com formação para 07/2023. Almejo em sequência iniciar uma faculdade de Engenharia de Software e realizar uma migração de carreira, sei que tenho muito a agregar para área de tecnologia com a experiencia que possuo. Sou fascinado por sistemas e por tudo de amplo e inovador que podem transformar a nossa realidade. Meu fascínio e curiosidade podem me levar a novos lugares e alcançar grandes projetos.
   </p>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
-
+</br>
 ## 🚀 Tecnologias que estou me Desenvolvendo:  
-  
+ </br> 
   <div style="display: inline_block" align="center">
   
   <img align="center" alt="HTML" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -31,18 +31,19 @@
   <img align="center" alt="JavaScript" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Spring"height="50" width="120" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
           
-  </div><br>
-  
+  </div>
+</br>  
 ## 🌐 Minhas Redes Sociais
-  
+</br>  
 <div align="center">
         <a href="https://www.instagram.com/leocustodio1/" target="_blank" height="35" width="120"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-                      badge&logo=instagram&logoColor=white" target="_blank" height="35" width="120"></a>
         <a href="https://www.linkedin.com/in/leocustodio1992/" target="_blank" height="35" width="120"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-             badge&logo=linkedin&logoColor=white" target="_blank" height="35" width="120"></a>
         <a href="https://m.facebook.com/Leonardo.lSantosl" target="_blank" height="35" width="120"><img src="https://img.shields.io/badge/-Facebook-blue" target="_blank"   height="35" width="120"></a>
         <a href="https://leoo1992.github.io/" target="_blank" height="35" width="120"><img src="https://img.shields.io/badge/-Portif%C3%B3lio-white" target="_blank" height="35" width="120"></a>
 </div>
-
+</br>
 ## ⚙️ Estatísticas GitHub</b></summary>
+</br>
 <div align="center">
   
  ![](./profile-3d-contrib/profile-night-rainbow.svg)
