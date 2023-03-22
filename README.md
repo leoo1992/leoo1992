@@ -1,4 +1,4 @@
-<div align="center" >
+<div align="center" width="100%">
  
  ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
 # Obrigado por visitar meu Git! 
