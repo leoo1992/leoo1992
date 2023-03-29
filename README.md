@@ -49,7 +49,7 @@
         <a href="https://leoo1992.github.io/" target="_blank" height="35" width="120"><img src="https://img.shields.io/badge/-Portif%C3%B3lio-white" target="_blank" height="35" width="120"></a>
 </div>
 
-<br><br>
+<!-- <br><br>
 ## ⚙️ Estatísticas GitHub</b></summary>
 
 
@@ -58,3 +58,4 @@
   <img height="250em" src="https://github-readme-stats.vercel.app/api?username=leoo1992&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoo1992&layout=compact&langs_count=7&theme=dark"/>
 </div>
+ -->
