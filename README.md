@@ -59,5 +59,5 @@ Como técnico de segurança e saúde do trabalhoa aprendi habilidades em manusei
   <img height="250em" src="https://github-readme-stats.vercel.app/api?username=leoo1992&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoo1992&layout=compact&langs_count=7&theme=dark"/>
 </div>
+<br><br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
- -->
