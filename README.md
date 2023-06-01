@@ -22,7 +22,6 @@
 Como técnico de segurança e saúde do trabalhoa aprendi habilidades em manuseio de sistemas, confecção e análise de materiais técnicos, treinamento de integração, laudos técnicos e inspeções. Estou finalizando o curso técnico em Desenvolvimento de Sistemas e na sequencia estarei iniciando a faculdade de Engenharia de Software. Tenho habilidade em trabalhar em equipes, em resoluções de problemas, sou organizado, tenho autonomia no que faço, sei lidar e sou atencioso com os clientes.
   </p>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 
 <br><br>
 ## 🚀 Tecnologias que estou me Desenvolvendo:  
@@ -60,4 +59,5 @@ Como técnico de segurança e saúde do trabalhoa aprendi habilidades em manusei
   <img height="250em" src="https://github-readme-stats.vercel.app/api?username=leoo1992&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoo1992&layout=compact&langs_count=7&theme=dark"/>
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
  -->
