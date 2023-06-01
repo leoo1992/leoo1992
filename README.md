@@ -1,11 +1,18 @@
 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header"/>
 
+<div align="center">
+ 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" align="center">
+<a target="blank" href="https://profile-counter.glitch.me/leoo1992/count.svg" align="center"></a><p>❤ Número de Visitantes ❤</p><img src="https://profile-counter.glitch.me/leoo1992/count.svg" align="center"/>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=OBRIGADO+POR+ME+VISITAR)](https://github.com/leoo1992)
+</div>
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-<a target="blank" href="https://profile-counter.glitch.me/leoo1992/count.svg"><p align="center">❤ Número de Visitantes ❤<br><br><img src="https://profile-counter.glitch.me/leoo1992/count.svg" /></a>
+<div align="center">
+ 
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&&lines=OBRIGADO+POR+ME+VISITAR)
+
+</div>
 
 ### Olá ! Aqui é o Léo....
 ### Sou um desevolvedor em aprendizado e um grande apaixonado por Tecnologia! 👋
@@ -15,10 +22,12 @@
 ### ⚡️ Um pouquinho sobre mim:     
      
 <div>
+ 
   <p>
  Sou um profissional em transição de carreira e estou buscando uma oportunidade como desenvolvedor Jr. com habilidades em Java, HTML5, CSS3 e MySQL. Busco me aprimorar nas tecnologias React e JavaScript. No meu Github, venho praticando e aprendendo a aprimorar as minhas habilidades de programação.
 Como técnico de segurança e saúde do trabalhoa aprendi habilidades em manuseio de sistemas, confecção e análise de materiais técnicos, treinamento de integração, laudos técnicos e inspeções. Estou finalizando o curso técnico em Desenvolvimento de Sistemas e na sequencia estarei iniciando a faculdade de Engenharia de Software. Tenho habilidade em trabalhar em equipes, em resoluções de problemas, sou organizado, tenho autonomia no que faço, sei lidar e sou atencioso com os clientes.
   </p>
+ 
 </div>
 
 <br><br>
@@ -36,7 +45,8 @@ Como técnico de segurança e saúde do trabalhoa aprendi habilidades em manusei
   <img align="center" alt="React"height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
   <img align="center" alt="Node"height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="MySQL" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />   
-  </div>
+ 
+ </div>
 
 <br><br>
 ## 🌐 Minhas Redes Sociais
