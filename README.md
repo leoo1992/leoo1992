@@ -42,7 +42,9 @@
 <a href="https://www.instagram.com/leocustodio1/" target="_blank" height="35" width="120"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" height="35" width="120"></a>
 <a href="https://www.linkedin.com/in/leocustodio1992/" target="_blank" height="35" width="120"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="35" width="120"></a>
 <a href="https://m.facebook.com/Leonardo.lSantosl" target="_blank" height="35" width="120"><img src="https://img.shields.io/badge/-Facebook-blue" target="_blank" height="35" width="120"></a>
-<a href="https://leoo1992.github.io/" target="_blank" height="35" width="120"><img src="https://img.shields.io/badge/-Portif%C3%B3lio-white" target="_blank" height="35" width="120"></a>
+<a href="https://tj9rjr.csb.app/" target="_blank" height="35" width="120"><img src="https://img.shields.io/badge/-Portif%C3%B3lio-white" target="_blank" height="35" width="120"></a>
+<a href="https://linktr.ee/LeonardoDev1992" target="_blank" height="35" width="120"><img src="https://img.shields.io/badge/Linktree-43E55E.svg?style=for-the-badge&logo=Linktree&logoColor=white" target="_blank" height="35" width="120"></a>
+
  
 </div>
 
