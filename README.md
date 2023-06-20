@@ -45,7 +45,7 @@
 <a href="https://tj9rjr.csb.app/" target="_blank" height="35" width="120"><img src="https://img.shields.io/badge/-Portif%C3%B3lio-white" target="_blank" height="35" width="120"></a>
 <a href="https://linktr.ee/LeonardoDev1992" target="_blank" height="35" width="120"><img src="https://img.shields.io/badge/Linktree-43E55E.svg?style=for-the-badge&logo=Linktree&logoColor=white" target="_blank" height="35" width="120"></a>
 
- 
 </div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1ebe28&height=120&section=footer"/>
