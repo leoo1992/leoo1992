@@ -9,7 +9,7 @@
 
 </div>
 
-<h2>⚙️ Estatísticas GitHub:</h2>
++ texto em verde <h2>⚙️ Estatísticas GitHub:</h2>
 
 <div align="center">  
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leoo1992&show_icons=true&count_private=true&hide_border=true&title_color=25f833&icon_color=15741c&text_color=c9d1d9&bg_color=0d1117" alt="leoo1992 github stats" /> 
@@ -46,6 +46,13 @@
 <a href="https://linktr.ee/LeonardoDev1992" target="_blank" height="35" width="120"><img src="https://img.shields.io/badge/Linktree-43E55E.svg?style=for-the-badge&logo=Linktree&logoColor=white" target="_blank" height="35" width="120"></a>
 
 </div>
+
+###
+
+<br clear="both">
+<img src="https://raw.githubusercontent.com/leoo1992/leoo1992/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1ebe28&height=120&section=footer"/>
