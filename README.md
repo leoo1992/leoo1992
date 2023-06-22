@@ -36,8 +36,7 @@
 <img align="center" alt="Node" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 <img align="center" alt="MySQL" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />   
 
-</br>
-</br>
+</br></br>
 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
@@ -54,18 +53,6 @@
 <a href="https://m.facebook.com/Leonardo.lSantosl" target="_blank" height="35" width="120"><img src="https://img.shields.io/badge/-Facebook-blue" target="_blank" height="35" width="120"></a>
 <a href="https://tj9rjr.csb.app/" target="_blank" height="35" width="120"><img src="https://img.shields.io/badge/-Portif%C3%B3lio-white" target="_blank" height="35" width="120"></a>
 <a href="https://linktr.ee/LeonardoDev1992" target="_blank" height="35" width="120"><img src="https://img.shields.io/badge/Linktree-43E55E.svg?style=for-the-badge&logo=Linktree&logoColor=white" target="_blank" height="35" width="120"></a>
-
-</div>
-
-<h2> Commits</h2>
-                        
-</br>
-
-<div align="center">
- 
-<img src="https://raw.githubusercontent.com/leoo1992/leoo1992/output/snake.svg" alt="Snake animation" />
-
-###
 
 </div>
 
