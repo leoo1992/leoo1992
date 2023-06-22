@@ -72,7 +72,7 @@
 
 </div>
 
-<h2 align="center"> Commits </h2>
+<h2> Commits: </h2>
                         
 </br>
 
