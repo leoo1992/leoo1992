@@ -8,7 +8,7 @@
 
 </div>
 
-<h2 >📊 Estatísticas GitHub:</h2>
+<h2 >📊 Estatísticas GitHub</h2>
 
 </br>
 
@@ -20,7 +20,7 @@
 
 </div>
 
-<h2 align="center"> 🚀 Tecnologias que estou me Desenvolvendo</h2>
+<h2> 🚀 Tecnologias que estou me Desenvolvendo</h2>
 
 </br>
 
@@ -35,20 +35,15 @@
 <img align="center" alt="React" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
 <img align="center" alt="Node" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 <img align="center" alt="MySQL" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />   
- 
-</div>
-
-<h2 align="center"> 💻 Outras Tecnologias</h2>
 
 </br>
+</br>
 
-<div style="display: inline_block" align="center">
- 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 </div>
 
-<h2 align="center"> 🌐 Minhas Redes Sociais</h2>
+<h2> 🌐 Minhas Redes Sociais</h2>
 
 </br>
 
@@ -62,17 +57,7 @@
 
 </div>
 
-<h2 align="center"> 🏆 GitHub Trophies</h2>
-                        
-</br>
-
-<div align="center">
- 
-![](https://github-profile-trophy.vercel.app/?username=leoo1992&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
-<h2> Commits: </h2>
+<h2> Commits</h2>
                         
 </br>
 
