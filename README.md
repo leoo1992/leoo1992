@@ -9,7 +9,7 @@
 
 </div>
 
-+ texto em verde <h2>⚙️ Estatísticas GitHub:</h2>
+<h2>⚙️ Estatísticas GitHub:</h2>
 
 <div align="center">  
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leoo1992&show_icons=true&count_private=true&hide_border=true&title_color=25f833&icon_color=15741c&text_color=c9d1d9&bg_color=0d1117" alt="leoo1992 github stats" /> 
