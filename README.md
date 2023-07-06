@@ -16,7 +16,6 @@
  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=leoo1992&theme=chartreuse-dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leoo1992&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</br>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leoo1992&bg_color=0d1117&color=25f833&line=25f833&point=1b9e24&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
