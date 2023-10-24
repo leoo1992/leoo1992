@@ -19,7 +19,7 @@
 
 </div>
 
-<h2> 🚀 Tecnologias que estou me Desenvolvendo</h2>
+<h2> 🚀 Tecnologias</h2>
 
 </br>
 
@@ -34,8 +34,6 @@
 <img align="center" alt="MySQL" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />   
 
 </br></br>
-
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 </div>
 
