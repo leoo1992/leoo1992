@@ -14,7 +14,7 @@
 
 <div style="display: inline_block" align="center">
  
-![](https://github-readme-streak-stats.herokuapp.com/?user=leoo1992&theme=chartreuse-dark&hide_border=false)</br>
+[![](https://streak-stats.demolab.com?user=leoo1992&theme=vue-dark&border_radius=5&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat&card_width=500&background=000000)](https://git.io/streak-stats)</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leoo1992&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</br>
 
 </div>
