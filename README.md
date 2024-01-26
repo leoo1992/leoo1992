@@ -6,6 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1b9e24&size=35&center=true&vCenter=true&width=1000&lines=OBRIGADO+POR+ME+VISITAR+!;PRAZER+EM+TER+VOCÊ+AQUI+!;SEJA+BEM+VINDO+!)](https://git.io/typing-svg)
 
+ <img align="" height='120px' width='100%' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
+
 </div>
 
 <h2 >📊 Estatísticas GitHub</h2>
