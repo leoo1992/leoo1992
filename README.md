@@ -19,20 +19,20 @@
 [![](https://streak-stats.demolab.com?user=leoo1992&theme=vue-dark&border_radius=5&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat&card_width=500&background=000000)](https://git.io/streak-stats)</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leoo1992&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</br>
 
-<h3 align="center">
-    <span style="color: #1ebe28; background: #fff;">
+<h3 align="center" style="color: #fff; background: #fff;">
+    <span style="color: #fff; background: #fff;">
         Click para ver o tempo de atividade: 
-        <a href="https://wakatime.com/@leoo1992" style="color: #1ebe28; background: #fff;" target="_blank">
-            <img align="center" style="color: #1ebe28; background: #fff;" src="https://wakatime.com/static/img/wakatime.svg" target="_blank" alt="leoo1992" height="30" width="30" />
+        <a href="https://wakatime.com/@leoo1992" style="color: #fff; background: #fff;" target="_blank">
+            <img align="center" style="color: #fff; background: #fff;" src="https://wakatime.com/static/img/wakatime.svg" target="_blank" alt="leoo1992" height="30" width="30" />
         </a>
     </span>
 </h3>
 
-<figure>
-    <img align="center" src="https://wakatime.com/share/@leoo1992/7231cf10-bf4d-4373-b642-92bdfedfaf17.svg" alt="leoo1992" target="_blank" height="600"/>
+<figure style="color: #fff; background: #fff;">
+    <img align="center" style="color: #fff; background: #fff;" src="https://wakatime.com/share/@leoo1992/7231cf10-bf4d-4373-b642-92bdfedfaf17.svg" alt="leoo1992" target="_blank" height="600"/>
 </figure>
 </br>
-<img align="center" src="https://wakatime.com/badge/user/6f8c2feb-af84-4f98-abe5-4a9e232dac9d.svg" alt="leoo1992" target="_blank"/>
+<img align="center" style="color: #fff; background: #fff;" src="https://wakatime.com/badge/user/6f8c2feb-af84-4f98-abe5-4a9e232dac9d.svg" alt="leoo1992" target="_blank"/>
 
 </div>
 
