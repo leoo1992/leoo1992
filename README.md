@@ -29,8 +29,9 @@
 </h3>
 
 <figure style="background: #fff;">
-    <img align="center" style="background: #fff;" src="https://wakatime.com/share/@leoo1992/7231cf10-bf4d-4373-b642-92bdfedfaf17.svg" alt="leoo1992" target="_blank" height="600"/>
+    <img align="center" style="background: #fff;" src="https://wakatime.com/share/@leoo1992/18af4746-62dd-4182-adb4-1fcd0d6f7521.svg" alt="leoo1992" target="_blank" height="600"/>
 </figure>
+
 </br>
 <img align="center" style="background: #fff;" src="https://wakatime.com/badge/user/6f8c2feb-af84-4f98-abe5-4a9e232dac9d.svg" alt="leoo1992" target="_blank"/>
 
