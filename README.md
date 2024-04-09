@@ -20,9 +20,9 @@
 </div>
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=leoo1992&theme=chartreuse-dark"/>
-<div style="display: flex; justify-content: center;">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=leoo1992&theme=chartreuse_dark" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leoo1992&theme=chartreuse_dark" height="180em" />
+<div style="display: flex; justify-content: center;" align="center">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=leoo1992&theme=chartreuse_dark" height="150em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leoo1992&theme=chartreuse_dark" height="150em" />
 </div>
 
 ## 🚀 Tecnologias
