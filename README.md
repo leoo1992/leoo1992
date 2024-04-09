@@ -2,7 +2,7 @@
 
 <div align="center">
     <a target="blank" href="https://profile-counter.glitch.me/leoo1992/count.svg" align="center"></a>
-    <p>❤ Número de Visitantes ❤</p>
+    <p>❤ Número de Visitantes ❤  = </p>
     <img src="https://profile-counter.glitch.me/leoo1992/count.svg" align="center"/>
     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1b9e24&size=35&center=true&vCenter=true&width=1000&lines=OBRIGADO+POR+ME+VISITAR+!;PRAZER+EM+TER+VOCÊ+AQUI+!;SEJA+BEM+VINDO+!)](https://git.io/typing-svg)
@@ -20,9 +20,9 @@
 </div>
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=leoo1992&theme=chartreuse-dark"/>
-<div style="display: flex; justify-content: center;">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=leoo1992&theme=chartreuse_dark" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leoo1992&theme=chartreuse_dark" height="180em" />
+<div style="display: flex; justify-content: center;" align="center">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=leoo1992&theme=chartreuse_dark" height="150em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leoo1992&theme=chartreuse_dark" height="150em" />
 </div>
 
 ## 🚀 Tecnologias
@@ -72,12 +72,10 @@
     <a href="https://m.facebook.com/Leonardo.lSantosl" target="_blank" height="35" width="120">
         <img src="https://img.shields.io/badge/-Facebook-blue" target="_blank" height="35" width="120">
     </a>
-    <a href="https://tj9rjr.csb.app/" target="_blank" height="35" width="120">
-        <img src="https://img.shields.io/badge/-Portif%C3%B3lio-white" target="_blank" height="35" width="120">
-    </a>
     <a href="https://linktr.ee/LeonardoDev1992" target="_blank" height="35" width="120">
         <img src="https://img.shields.io/badge/Linktree-43E55E.svg?style=for-the-badge&logo=Linktree&logoColor=white" target="_blank" height="35" width="120">
     </a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1ebe28&height=120&section=footer"/>
+
