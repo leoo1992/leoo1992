@@ -19,8 +19,6 @@
     <img align="center" src="https://wakatime.com/badge/user/6f8c2feb-af84-4f98-abe5-4a9e232dac9d.svg" alt="leoo1992" target="_blank"/>
 </div>
 
-<img align="center" src="https://raw.githubusercontent.com/leoo1992/leoo1992/output/snake.svg" alt="Snake animation" />
-
 ## 🚀 Tecnologias
 
 <div align="center">
