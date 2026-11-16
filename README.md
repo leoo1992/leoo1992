@@ -1,97 +1,47 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1ebe28&height=120&section=header"/>
-
-<h1 align="center">Leonardo Santos Custódio</h1>
+<h1 align="center">Full-stack Developer | React · Next.js · TypeScript · Python/FastAPI · Node/NestJS · SQL/PL-SQL</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack · Oracle / PL/SQL · JavaScript / TypeScript · React / Next.js
+  <a href="README.en.md">English version</a> ·
+  <a href="https://portfolio-novo-leonardo-web.vercel.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/leocustodio1992">LinkedIn</a>
 </p>
 
-<p align="center">
-  Desenvolvimento de aplicações web, soluções corporativas, APIs, Business Intelligence, integrações e automações.
-</p>
+Desenvolvedor de software com atuação em aplicações web, interfaces, APIs e soluções corporativas. Trabalho principalmente com JavaScript, TypeScript, React, Next.js, Node.js e SQL/PL-SQL, mantendo foco em código sustentável, experiência de uso e integração entre sistemas.
 
-<div align="center">
-  <a href="https://portfolio-novo-leonardo-web.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-Acessar-1ebe28?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/leocustodio1992/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Leonardo%20Custódio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
+## Tecnologias e práticas
 
-## Sobre mim
+- **Front-end:** React, Next.js, TypeScript, JavaScript, HTML e CSS.
+- **Back-end:** Node.js, NestJS, Python, FastAPI e APIs REST.
+- **Dados:** SQL, Oracle, PL/SQL, PostgreSQL e integração com serviços.
+- **Qualidade e entrega:** Git, GitHub Actions, testes, lint, type checking e deploy.
+- **Interfaces e visualização:** dashboards, aplicações responsivas e experiências interativas.
 
-Atuo no desenvolvimento de software com foco em **Front-end, Full Stack e soluções orientadas a dados**. Minha experiência profissional inclui **Oracle, PL/SQL, SQL, JavaScript e TypeScript**, além da construção de interfaces, APIs, dashboards, integrações e automações.
+## Projetos em destaque
 
-Trabalho com aplicações web modernas em **React e Next.js**, back-ends e APIs com **Node.js e NestJS**, gerenciamento de estado com **Redux**, bancos de dados relacionais e integração com serviços externos. Também desenvolvo soluções corporativas envolvendo **Business Intelligence, relatórios, processamento de dados e ERP**.
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [Sentinela SST](https://github.com/leoo1992/sentinela-sst) | Aplicação voltada à gestão de processos de Saúde e Segurança do Trabalho. | Consulte o repositório |
+| [Sistema Ponto](https://github.com/leoo1992/sistema_ponto) | Sistema para gestão e acompanhamento de registros de ponto. | Consulte o repositório |
+| [Hero App](https://github.com/leoo1992/hero-app-back) · [Front-end](https://github.com/leoo1992/hero-app-front) | Aplicação full-stack com API e interface separadas. | NestJS, TypeScript e React |
+| [PulseBI](https://github.com/leoo1992/pulsebi) | Projeto de Business Intelligence e visualização de informações. | Consulte o repositório |
+| [Quake Vision](https://github.com/leoo1992/quake-vision) | Projeto de visualização e análise relacionado a dados sísmicos. | Consulte o repositório |
+| [Leo AI POC](https://github.com/leoo1992/Leo-AI-poc) | Prova de conceito para exploração de recursos de inteligência artificial. | Consulte o repositório |
 
-## Tecnologias
+## Projeto freelance
 
-### Front-end
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,vite,svelte" alt="Front-end"/>
-</p>
+**LEGGO Construções** — [construtoraleggo.com.br](https://www.construtoraleggo.com.br/)
 
-### Back-end, APIs e dados
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,mysql,postgres,supabase,firebase" alt="Back-end e dados"/>
-</p>
+Desenvolvimento de site institucional em Next.js, com otimização de imagens e SEO on-page. Projeto publicado e em produção para cliente.
 
-**Oracle · PL/SQL · SQL · REST APIs · BI · Integrações · Automação**
+## Experiência e formação
 
-### Engenharia, qualidade e DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,githubactions,eslint,jest,cypress,postman" alt="Engenharia e DevOps"/>
-</p>
-
-**Git · GitHub Actions · CI/CD · Docker · ESLint · testes automatizados · cobertura de testes · type checking**
-
-### Visualização e experiências interativas
-<p>
-  <img src="https://skillicons.dev/icons?i=threejs,figma" alt="Visualização e UI"/>
-</p>
-
-**Three.js · React Three Fiber · MapLibre · dashboards · visualização de dados · interfaces responsivas**
-
-## Áreas em que trabalho
-
-- **Oracle / PL/SQL:** procedures, packages, consultas SQL, processamento de dados e regras de negócio.
-- **Web:** React, Next.js, TypeScript, JavaScript, Redux e interfaces responsivas.
-- **Back-end:** Node.js, NestJS, APIs REST e integrações.
-- **Dados e BI:** dashboards, relatórios, análise e visualização de dados.
-- **Qualidade:** testes automatizados, lint, type checking, cobertura, Docker e pipelines CI/CD.
-- **Automação:** integrações entre sistemas, APIs e fluxos automatizados.
-
-## Projetos e portfólio
-
-Meus projetos mais recentes incluem aplicações de **visualização de dados, BI, automação de workflows, análise de repositórios GitHub, experiências 3D e visão computacional**.
-
-<p align="center">
-  <a href="https://portfolio-novo-leonardo-web.vercel.app/">
-    <img src="https://img.shields.io/badge/VER%20PORTFÓLIO%20COMPLETO-1ebe28?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver portfólio completo"/>
-  </a>
-</p>
-
-## Estatísticas
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=leoo1992&locale=pt-br&mode=weekly&theme=github_dark&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D" height="160" alt="GitHub streak"/>
-  <br/><br/>
-  <img src="https://wakatime.com/badge/user/6f8c2feb-af84-4f98-abe5-4a9e232dac9d.svg" alt="WakaTime"/>
-</div>
+- <!-- PREENCHER: experiência -->
+- <!-- PREENCHER: formação -->
 
 ## Contato
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/leocustodio1992/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/leocustodio1/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://linktr.ee/LeonardoDev1992" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
-  </a>
-</div>
+- [LinkedIn](https://www.linkedin.com/in/leocustodio1992)
+- GitHub: [@leoo1992](https://github.com/leoo1992)
+- E-mail: <!-- PREENCHER: contato -->
+- Currículo: <!-- PREENCHER: link do PDF -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1ebe28&height=120&section=footer"/>
