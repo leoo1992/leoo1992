@@ -12,6 +12,6 @@ I have rewritten the repository history to remove sensitive environment configur
 
 The current branch history has been rewritten and the cleaned refs have been force-pushed. Please help purge cached views and any retained references to the affected commits and sensitive file contents from GitHub's cached pages and internal views, where possible.
 
-I have rotated any credentials that may have been exposed. Please let me know if any additional repository identifiers or verification steps are required.
+I am treating all potentially exposed credentials as compromised and will rotate them independently of the history rewrite. Please let me know if any additional repository identifiers or verification steps are required.
 
 Thank you.
