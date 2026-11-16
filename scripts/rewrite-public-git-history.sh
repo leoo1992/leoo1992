@@ -73,7 +73,7 @@ PY
     --invert-paths \
     --replace-text "$REPLACEMENTS"
 
-  # Validate the rewritten local mirror before changing GitHub.
+  # filter-repo removes origin intentionally; restore it for the mirror push.\n  git -C "$MIRROR" remote remove origin >/dev/null 2>&1 || true\n  git -C "$MIRROR" remote add origin "$URL"\n\n  # Validate the rewritten local mirror before changing GitHub.
   POST_STATUS=0
   gitleaks git --log-opts="--all" --redact=0 --report-format=json \
     --report-path="$REPORT/$NAME-after.json" "$MIRROR" >/dev/null 2>&1 || POST_STATUS=$?
